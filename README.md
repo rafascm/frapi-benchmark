@@ -1,1 +1,1 @@
-# frAPI-benchmark
+# frapi-benchmark
