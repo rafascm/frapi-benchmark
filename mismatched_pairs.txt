@@ -92,7 +92,7 @@ Cathy_Freeman	2	William_Martin	2
 Cecilia_Cheung	1	Daryl_Parks	1
 Cecilia_Cheung	1	Pascal_Affi_Nguessan	1
 Chen_Tsai-chin	1	Dereck_Whittenburg	1
-Chen_Tsai-chin	1	Georgia_Giddings	1
+Chen_Tsai-chin	1	Mamdouh_Habib	1
 Cho_Myung-kyun	1	David_Bell	1
 Cho_Myung-kyun	1	Fernando_Sanz	1
 Cho_Myung-kyun	1	Georgia_Giddings	1
