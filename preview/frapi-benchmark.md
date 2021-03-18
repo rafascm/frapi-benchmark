@@ -2,9 +2,6 @@
 
 ---
 
-## frAPI Benchmark
-
-
 ```python
 import time
 import base64
@@ -26,7 +23,7 @@ print(resp)
     
 
 ---
-#  Defining functions
+##  Defining functions
 
 
 ```python
@@ -127,6 +124,8 @@ def normalize(arr):
 
     return res
 ```
+
+## Testing api 
 
 ### Loading arrays
 
